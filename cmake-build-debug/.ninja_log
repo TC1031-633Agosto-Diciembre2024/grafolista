@@ -1,0 +1,15 @@
+# ninja log v6
+0	23	1730823677084591233	CMakeFiles/grafomatriz.dir/Node.cpp.o	83878ee77d7c24bc
+0	290	1730823677084709568	CMakeFiles/grafomatriz.dir/Graph.cpp.o	e1e86dae8d4805ff
+0	297	1730823677084347939	CMakeFiles/grafomatriz.dir/main.cpp.o	500a15d77e45cb9e
+4	250	1730823741995790439	CMakeFiles/grafomatriz.dir/Node.cpp.o	83878ee77d7c24bc
+4	250	1730823741996050238	CMakeFiles/grafomatriz.dir/Graph.cpp.o	e1e86dae8d4805ff
+3	240	1730823785418209975	CMakeFiles/grafomatriz.dir/Graph.cpp.o	e1e86dae8d4805ff
+4	249	1730823821977050083	CMakeFiles/grafomatriz.dir/Node.cpp.o	83878ee77d7c24bc
+4	249	1730823821977348966	CMakeFiles/grafomatriz.dir/Graph.cpp.o	e1e86dae8d4805ff
+3	240	1730823875747747903	CMakeFiles/grafomatriz.dir/main.cpp.o	500a15d77e45cb9e
+4	251	1730823917549679539	CMakeFiles/grafomatriz.dir/Node.cpp.o	83878ee77d7c24bc
+4	261	1730823917549948755	CMakeFiles/grafomatriz.dir/Graph.cpp.o	e1e86dae8d4805ff
+261	285	1730823917806629741	grafomatriz	1fc45f445d4f5bb4
+4	246	1730823928328172452	CMakeFiles/grafomatriz.dir/main.cpp.o	500a15d77e45cb9e
+246	270	1730823928569925815	grafomatriz	1fc45f445d4f5bb4
